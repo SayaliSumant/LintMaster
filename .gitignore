@@ -1,0 +1,21 @@
+# Ignore node modules
+node_modules/
+Documentation/
+
+# Ignore environment variables
+.env
+
+# Ignore log files
+*.log
+Packeges.txt
+sample code.txt
+public\main.js
+public\About.html
+public\registration.html
+
+# Ignore system files
+.DS_Store
+
+# Ignore IDE files (optional)
+.vscode/
+.idea/

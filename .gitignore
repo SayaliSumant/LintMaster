@@ -9,9 +9,9 @@ Documentation/
 *.log
 Packeges.txt
 sample code.txt
-public\main.js
-public\About.html
-public\registration.html
+main.js
+About.html
+registration.html
 
 # Ignore system files
 .DS_Store

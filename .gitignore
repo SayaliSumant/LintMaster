@@ -7,7 +7,11 @@ Documentation/
 
 # Ignore log files
 *.log
-
+Packeges.txt
+sample code.txt
+main.js
+About.html
+registration.html
 
 # Ignore system files
 .DS_Store
